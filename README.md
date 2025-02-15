@@ -15,4 +15,4 @@ This project demonstrates different Animal's sounds in the Python programming la
 -User can run it also using an online Python Editor.
 
 ## Moral:
--Let's habe FUN learning Python!
+-Let's have FUN learning Python!
