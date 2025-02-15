@@ -1,17 +1,18 @@
-#Rock, Paper, Scissors AI
+# Hotel Animal Sound
 
-#Overview
+## Project Overview
 
-This is a simple Rock, Paper, Scissors game written in Python. The AI opponent learns from the player's choices and adapts its strategy over time. Unlike a random-choice AI, this implementation predicts the player's most frequent move and selects the optimal counter-move.
+This project demonstrates different Animal's sounds in the Python programming language through a console-based Object Oriented program. It is designed as one file project for learning. Users can interactively experiment with various Animal names, and get as output their sound types back!
 
-#How It Works
+## How to try it!
+- There is a Menue for different animals!
+- Check it and select you favorite one!
+- Then Type the corresponding serial number of it  (i.e: 0, 1, ...., 5)
+- Get the sound of that animal!
 
-1. The player selects rock, paper, or scissors.
+## Execution:
+-User can run it any python installed editor and compile it using the editor's compiler and get the output
+-User can run it also using an online Python Editor.
 
-2. The AI starts with a random choice in the first round.
-
-3. After each round, the AI tracks the player's choices in a history dictionary.
-
-4. The AI predicts the most frequently chosen move and selects the best counter-move.
-
-5. The game continues until the player decides to quit.
+## Moral:
+-Let's habe FUN learning Python!
